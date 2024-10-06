@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyIDBOedhxo=",
+  "success": true,
+  "projectFilePath": "D:\\DOTNET\\CODE\\MemoryTraining\\MemoryTraining\\MemoryTraining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guram\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.40.0\\microsoft.cognitiveservices.speech.1.40.0.nupkg.sha512",
+    "C:\\Users\\guram\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
